@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>mjl_resume</title>
+    <link rel="stylesheet" href="css/resume.css">
+    <script src="js/lib/jquery.min.js"></script>
+    <script src="js/lib/doT.min.js"></script>
+    <script src="js/resume.js"></script>
+</head>
+
+<body class="resume-page">
+    <script id="resumeTpl" type="application/x-template">
+        <div class="resume">
+            <div class="resume-header">
+                <div class="name">{{=it.name}}</div>
+                <div class="contacts">
+                    <div class="address">{{=it.address}}</div>
+                    <div class="mobile">{{=it.mobile}}</div>
+                    <div class="email">{{=it.email}}</div>
+                </div>
+            </div>
+            <h2>教育背景</h2>
+            {{~it.educations :value:index}}
+            <table class="table education">
+                <tr>
+                    <td class="period">{{=value.period}}</td>
+                    <td class="school">{{=value.school}}</td>
+                    <td>{{=value.degree}}</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="2">{{=value.major}}</td>
+                </tr>
+            </table>
+            {{~}}
+            <h2>工作经历</h2>
+            {{~it.careers :value:index}}
+            <table class="table career">
+                <tr>
+                    <td class="period">{{=value.period}}</td>
+                    <td><b>{{=value.company}}</b> - {{=value.title}}</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>{{=value.duty}}</td>
+                </tr>
+            </table>
+            {{~}}
+            <h2>项目经验</h2>
+            {{~it.projects :value:index}}
+            <table class="table project">
+                <tr>
+                    <td class="period">{{=value.period}}</td>
+                    <td class="title">{{=value.company}} - {{=value.name}}</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>{{=value.description}}</td>
+                </tr>
+            </table>
+            {{~}}
+            <h2>主要技能</h2>
+            <ul class="list skills">
+                {{~it.skills :value:index}}
+                <li>{{=value}}</li>
+                {{~}}
+            </ul>
+            <h2>自我评价</h2>
+            <div class="assessment">{{=it.assessment}}</div>
+        </div>
+    </script>
+</body>
+
+</html>
