@@ -47,7 +47,7 @@
         "description": "在该项目中，本人作为华为唯一的Dojo顾问，负责项目前端框架的搭建，复杂UI控件的开发，以及所有疑难问题的解决和方案的提供。技术上围绕Dojo进行开发，涉及AMD，JS多继承，SPA，路由，I18N，组件的生命周期及相互通信等主题。在项目中，碰到过各种各样的问题，对本人的经验和debug能力有巨大的提升。"
     }],
     "skills": [
-        "深入理解TML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等常用的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验；掌握Backbone和AngularJS，并了解Knockout和Vue等MVVM框架；了解React核心思想；有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对NodeJS有一定的了解，使用过Npm和Gulp构建项目。",
+        "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等常用的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验；掌握Backbone和AngularJS，并了解Knockout和Vue等MVVM框架；了解React核心思想；有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对NodeJS有一定的了解，使用过Npm和Gulp构建项目。",
         "在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；也有SSH及相关后台技术的开发经验；熟悉数据结构及算法知识。",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
     ],
