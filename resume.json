@@ -18,7 +18,7 @@
         "period": "2016.9 - 至今",
         "company": "网易",
         "title": "资深前端开发工程师",
-        "duty": "暂无"
+        "duty": "参与网易杭研院下七鱼产品的前端开发"
     }, {
         "period": "2015.1 - 2016.8",
         "company": "Sumscope",
@@ -31,7 +31,12 @@
         "duty": "Websphere产品实施顾问，在职期间一直从事前端开发工作，包括基于Dojo的js开发和Hybrid web app的开发。"
     }],
     "projects": [{
-        "period": "2016.5 - 至今",
+        "period": "2016.9 - 至今",
+        "company": "网易",
+        "name": "七鱼客服系统",
+        "description": "七鱼客服系统为网易杭研院下的一个创业项目，致力于提供客服领域的解决方案。本人作为前端开发人员，已完成了多个功能模块的实现。技术上采用网易内部统一的NEJ和RegularJS等框架进行开发，项目中广泛使用了MVVM技术。经过一段时间的学习，对网易的前后端分离技术有一定的了解。"
+    },{
+        "period": "2016.5 - 2016.8",
         "company": "Sumscope",
         "name": "Unify Web项目",
         "description": "该项目旨在实现一套统一的Web UI。由本人一人负责开发和维护。产出类似Bootstrap，包括一套CSS theme和常用的JS plugins。受限于公司资源，插件部分采用第三方成熟出色的插件，部分则由本人自己开发封装。整个项目采用LESS进行预编译，使用Gulp进行构建。"
@@ -53,7 +58,7 @@
     }],
     "skills": [
         "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等常用的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验；掌握Backbone和AngularJS，并了解Knockout和Vue等MVVM框架；了解React核心思想；有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对NodeJS有一定的了解，使用过Npm和Gulp构建项目。",
-        "在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；也有SSH及相关后台技术的开发经验；熟悉数据结构及算法知识。",
+        "熟悉对后台技术。在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；也有SSH及相关后台技术的开发经验；熟悉数据结构及算法知识。",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
     ],
     "assessment": "基础扎实，对技术的理解较深入，不会一知半解。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。"
