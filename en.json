@@ -1,0 +1,70 @@
+{
+    "name": "Ma Jianglong",
+    "address": "宁波市鄞州区宜园路宜家花园9幢10单元2008",
+    "mobile": "(+86)186-5848-3609",
+    "email": "06rjgcmjl@gmail.com",
+    "educationTitle": "EDUCATION BACKGROUND",
+    "educations": [{
+        "period": "2010.9 - 2012.7",
+        "school": "浙江大学",
+        "degree": "Master",
+        "major": "Software Engineering"
+    }, {
+        "period": "2006.9 - 2010.7",
+        "school": "浙江大学",
+        "degree": "Bachelar",
+        "major": "Software Engineering"
+    }],
+    "careerTitle": "WORK EXPERIENCE",
+    "careers": [{
+        "period": "2016.9 - Now",
+        "company": "NetEase",
+        "title": "Senior Front-End Developer",
+        "duty": "Develop web appliction in qiyu project under NetEase Hangzhou Research Institute."
+    }, {
+        "period": "2015.1 - 2016.8",
+        "company": "Sumscope",
+        "title": "Front-End Teamleader",
+        "duty": "Conducting Front-End skills training, learning and promoting edge technologies, building Front-End frameworks and conventions, developing mobile web applications, and doing Front-End engineering etc."
+    }, {
+        "period": "2012.7 - 2015.1",
+        "company": "IBM",
+        "title": "Package Solution Consultant",
+        "duty": "I almost worked as a Front-End consultant. Mainly doing js development based on Dojo and mobile hybrid web apps based on IBM Worklight."
+    }],
+    "projectTitle": "PROJECTS",
+    "projects": [{
+        "period": "2016.9 - Now",
+        "company": "网易",
+        "name": "七鱼客服系统",
+        "description": "七鱼客服系统为网易杭研院下的一个创业项目，致力于提供客服领域的解决方案。本人作为前端开发人员，已完成了多个功能模块的实现。技术上采用网易内部统一的NEJ和RegularJS等框架进行开发，项目中广泛使用了MVVM技术。经过一段时间的学习，对网易的前后端分离技术有一定的了解。"
+    },{
+        "period": "2016.5 - 2016.8",
+        "company": "Sumscope",
+        "name": "Unify Web项目",
+        "description": "该项目旨在实现一套统一的Web UI。由本人一人负责开发和维护。产出类似Bootstrap，包括一套CSS theme和常用的JS plugins。受限于公司资源，插件部分采用第三方成熟出色的插件，部分则由本人自己开发封装。整个项目采用LESS进行预编译，使用Gulp进行构建。"
+    }, {
+        "period": "2015.1 - 2016.5",
+        "company": "Sumscope",
+        "name": "QB产品子功能项目",
+        "description": "QB是Sumscope的主打金融产品，功能庞大。原本采用C++开发，如今新增加的功能模块都采用Web技术进行开发。功能类似股票软件，主要提供金融数据的录入，查看和统计分析。页面有较多的控件，从简单的输入框，下拉框等到Grid，Tree，Chart等。页面相对复杂，有较多SPA的实现，采用过Backbone，AngularJS框架进行过开发。服务器端数据采用WebSocket进行推送。"
+    }, {
+        "period": "2014.6 - 2015.1",
+        "company": "IBM",
+        "name": "Worklight实施项目",
+        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的认识。"
+    }, {
+        "period": "2012.10 - 2014.5",
+        "company": "IBM",
+        "name": "华为实施项目",
+        "description": "在该项目中，本人作为华为唯一的Dojo顾问，负责项目前端框架的搭建，复杂UI控件的开发，以及所有疑难问题的解决和方案的提供。技术上围绕Dojo进行开发，涉及AMD，JS多继承，SPA，路由，I18N，组件的生命周期及相互通信等主题。在项目中，碰到过各种各样的问题，对本人的经验和debug能力有巨大的提升。"
+    }],
+    "skillTitle": "SKILLS",
+    "skills": [
+        "Understand HTML5，CSS3，Javascript deeply; Skilled in popular tools such as Jquery，Underscore，RequireJS; Familiar with UI frameworks like Dojo, ExtJs, EasyUI; Experienced in data visualization using Highcharts; Have lots of trials about SPA(Single Page Applciation) and modularization; Know well how to make a jquery plugin; Master Backbone and AngularJS, also learned other MVVM frameworks like Knockout, Vue, React; Engaged in mobile hybrid web app development, have quite time using jquery mobile and sench touch; Have used NodeJS, Gulp to build system.",
+        "Know backend techniques. Have a good understanding of Java, JSP/Servelet. Familiar with data structure and algorithms.",
+        "English: CET-6. Be able to conduct general oral communication. Have no trouble to read technical books in english."
+    ],
+    "assessmentTitle": "ASSESSMENT",
+    "assessment": "I have a solid foundation of IT knowledge, have a deep understanding of web technologies, and am familiar with underlying principles. I also have strong learning and trouble-shooting capabilities. I am a perfectionist, always looking for the best solution. Finally, I have a good sense of style and a lot of creativity."
+}

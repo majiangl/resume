@@ -3,6 +3,7 @@
     "address": "宁波市鄞州区宜园路宜家花园9幢10单元2008",
     "mobile": "(+86)186-5848-3609",
     "email": "06rjgcmjl@gmail.com",
+    "educationTitle": "教育背景",
     "educations": [{
         "period": "2010.9 - 2012.7",
         "school": "浙江大学",
@@ -14,6 +15,7 @@
         "degree": "学士",
         "major": "软件工程专业"
     }],
+    "careerTitle": "工作经历",
     "careers": [{
         "period": "2016.9 - 至今",
         "company": "网易",
@@ -30,6 +32,7 @@
         "title": "Package Solution Consultant",
         "duty": "Websphere产品实施顾问，在职期间一直从事前端开发工作，包括基于Dojo的js开发和Hybrid web app的开发。"
     }],
+    "projectTitle": "项目经验",
     "projects": [{
         "period": "2016.9 - 至今",
         "company": "网易",
@@ -56,10 +59,12 @@
         "name": "华为实施项目",
         "description": "在该项目中，本人作为华为唯一的Dojo顾问，负责项目前端框架的搭建，复杂UI控件的开发，以及所有疑难问题的解决和方案的提供。技术上围绕Dojo进行开发，涉及AMD，JS多继承，SPA，路由，I18N，组件的生命周期及相互通信等主题。在项目中，碰到过各种各样的问题，对本人的经验和debug能力有巨大的提升。"
     }],
+    "skillTitle": "主要技能",
     "skills": [
         "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等常用的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验；掌握Backbone和AngularJS，并了解Knockout和Vue等MVVM框架；了解React核心思想；有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对NodeJS有一定的了解，使用过Npm和Gulp构建项目。",
         "熟悉后台技术。在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；熟悉数据结构及算法知识。",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
     ],
+    "assessmentTitle": "自我评价",
     "assessment": "基础扎实，对技术的理解较深入，不会一知半解。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。"
 }

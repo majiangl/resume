@@ -21,7 +21,7 @@
                     <div class="email">{{=it.email}}</div>
                 </div>
             </div>
-            <h2>教育背景</h2>
+            <h2>{{=it.educationTitle}}</h2>
             {{~it.educations :value:index}}
             <table class="table education">
                 <tr>
@@ -35,7 +35,7 @@
                 </tr>
             </table>
             {{~}}
-            <h2>工作经历</h2>
+            <h2>{{=it.careerTitle}}</h2>
             {{~it.careers :value:index}}
             <table class="table career">
                 <tr>
@@ -48,7 +48,7 @@
                 </tr>
             </table>
             {{~}}
-            <h2>项目经验</h2>
+            <h2>{{=it.projectTitle}}</h2>
             {{~it.projects :value:index}}
             <table class="table project">
                 <tr>
@@ -61,13 +61,13 @@
                 </tr>
             </table>
             {{~}}
-            <h2>主要技能</h2>
+            <h2>{{=it.skillTitle}}</h2>
             <ul class="list skills">
                 {{~it.skills :value:index}}
                 <li>{{=value}}</li>
                 {{~}}
             </ul>
-            <h2>自我评价</h2>
+            <h2>{{=it.assessmentTitle}}</h2>
             <div class="assessment">{{=it.assessment}}</div>
         </div>
     </script>
