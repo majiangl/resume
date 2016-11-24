@@ -35,29 +35,29 @@
     "projectTitle": "PROJECTS",
     "projects": [{
         "period": "2016.9 - Now",
-        "company": "网易",
-        "name": "七鱼客服系统",
-        "description": "七鱼客服系统为网易杭研院下的一个创业项目，致力于提供客服领域的解决方案。本人作为前端开发人员，已完成了多个功能模块的实现。技术上采用网易内部统一的NEJ和RegularJS等框架进行开发，项目中广泛使用了MVVM技术。经过一段时间的学习，对网易的前后端分离技术有一定的了解。"
+        "company": "NetEase",
+        "name": "Qiyu customer service system",
+        "description": "Qiyu is a customer service system，which is to provide solution to the customer service area. I have accomplished several independent modules。Technically, We use NetEase standard NEJ and RequireJS as our framework，MVVM is heavily used."
     },{
         "period": "2016.5 - 2016.8",
         "company": "Sumscope",
-        "name": "Unify Web项目",
-        "description": "该项目旨在实现一套统一的Web UI。由本人一人负责开发和维护。产出类似Bootstrap，包括一套CSS theme和常用的JS plugins。受限于公司资源，插件部分采用第三方成熟出色的插件，部分则由本人自己开发封装。整个项目采用LESS进行预编译，使用Gulp进行构建。"
+        "name": "Unify Web Project",
+        "description": "This project is aim to unify web ui which is sponsored and all done by myself. The final artifact is similar to Bootstrap, including a css theme and a few js plugins. I used LESS preprocessor and Gulp to build."
     }, {
         "period": "2015.1 - 2016.5",
         "company": "Sumscope",
-        "name": "QB产品子功能项目",
-        "description": "QB是Sumscope的主打金融产品，功能庞大。原本采用C++开发，如今新增加的功能模块都采用Web技术进行开发。功能类似股票软件，主要提供金融数据的录入，查看和统计分析。页面有较多的控件，从简单的输入框，下拉框等到Grid，Tree，Chart等。页面相对复杂，有较多SPA的实现，采用过Backbone，AngularJS框架进行过开发。服务器端数据采用WebSocket进行推送。"
+        "name": "QB Projects",
+        "description": "QB is a financial product of sumscope which is originally developed by C++. And latter modules are all developed as web application contained by CEF(Chromium Embedded Framework). QB likes stock software, but more than it. You can use it to view financial news, view analytics charts, manipulate financial data or even view realtime trends etc. The implementation is a bit complicated. There are many ui widgets like tree, charts, grid. Some modules even used SPA. We use Backbone and AngularJS as web framework and use websocket for realtime data pushing."
     }, {
         "period": "2014.6 - 2015.1",
         "company": "IBM",
-        "name": "Worklight实施项目",
-        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的认识。"
+        "name": "Worklight Consulting Projects",
+        "description": "I have participated in several consulting projects based on IBM Worklight. IBM Worklight is a product to build mobile applications, especially hybrid web apps. IBM Worklight offers hybrid web app native shell, direct update, adapter to link to backend service and other essential features. So hybrid web app is almost web application, we use web techniques to develop mobile app. We use JQuery Mobile or Sench Touch as mobile web framework. After these projects, I am experienced in mobile web development."
     }, {
         "period": "2012.10 - 2014.5",
         "company": "IBM",
-        "name": "华为实施项目",
-        "description": "在该项目中，本人作为华为唯一的Dojo顾问，负责项目前端框架的搭建，复杂UI控件的开发，以及所有疑难问题的解决和方案的提供。技术上围绕Dojo进行开发，涉及AMD，JS多继承，SPA，路由，I18N，组件的生命周期及相互通信等主题。在项目中，碰到过各种各样的问题，对本人的经验和debug能力有巨大的提升。"
+        "name": "Huawei Dojo Consulting Project",
+        "description": "I am the only Dojo consultant dispatched to Huawei. Dojo is a great UI framework like ExtJS. My duty is to help build up front-end framework based on Dojo and solve tricky web problems. In order to meet Huawei's demand for deep customization, I learned the core mechanism and source code of Dojo. I learned Dojo's widget system and its lifecycle and many other advanced js topics such as AMD(Asynchronous Module Defination), js multiple inheritance, spa, url routing, i18n etc. This project has a profound impact on me. I growed a lot and became experienced rapidly."
     }],
     "skillTitle": "SKILLS",
     "skills": [
