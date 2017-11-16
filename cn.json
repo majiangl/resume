@@ -20,7 +20,7 @@
         "period": "2016.9 - 至今",
         "company": "网易",
         "title": "资深前端开发工程师",
-        "duty": "参与网易杭研院下七鱼产品的前端开发"
+        "duty": "参与网易杭研院旗下七鱼产品的前端开发，主要工作包括若干重要模块的开发，疑难问题的解决以及对框架的建设；另外，参与了新数据挖掘项目的框架搭建和后续开发。"
     }, {
         "period": "2015.1 - 2016.8",
         "company": "Sumscope",
@@ -34,10 +34,15 @@
     }],
     "projectTitle": "项目经验",
     "projects": [{
-        "period": "2016.9 - 至今",
+        "period": "2017.9 - 至今",
+        "company": "网易",
+        "name": "Prophet",
+        "description": "数据挖掘项目，目的在于帮助企业实现精准营销，功能基于大数据和可视化展开。本人参与了前端框架的搭建，目前主要负责可视化功能的开发。技术上采用React技术栈，采用webpack打包，同时结合了网易的前后端分离解决方案。"
+    },{
+        "period": "2016.9 - 2017.9",
         "company": "网易",
         "name": "七鱼客服系统",
-        "description": "七鱼客服系统为网易杭研院下的一个创业项目，致力于提供客服领域的解决方案。本人作为前端开发人员，已完成了多个功能模块的实现。技术上采用网易内部统一的NEJ和RegularJS等框架进行开发，项目中广泛使用了MVVM技术。经过一段时间的学习，对网易的前后端分离技术有一定的了解。"
+        "description": "网易七鱼是全智能云客服系统，帮助企业提升工作效率，降低管理成本，发挥商业价值。本人负责完成了多个重要模块，智能绩效，智能监控，自定义子弹和模板，平台管理系统，工单触发器，工单过滤器，权限系统等。技术上采用网易内部统一的NEJ和RegularJS等框架进行开发，对网易的前后端分离技术比较熟悉。"
     },{
         "period": "2016.5 - 2016.8",
         "company": "Sumscope",
@@ -61,10 +66,13 @@
     }],
     "skillTitle": "主要技能",
     "skills": [
-        "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等常用的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验；掌握Backbone和AngularJS，并了解Knockout和Vue等MVVM框架；了解React核心思想；有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对NodeJS有一定的了解，使用过Npm和Gulp构建项目。",
+        "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等传统的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts和Echarts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验。",
+        "有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对移动端Web开发有一定的认识和经验。",
+        "对新老MVVM框架都有不错的认识，从Backbone，Ember，Knockout，到AngularJS，Vue，React。对MVVM框架理解深刻，熟悉各个框架的核心机制。",
+        "对前端工程化有一定的经验，对grunt，gulp，webpack都有一段时间的实践，目前主要使用webpack。",
         "熟悉后台技术。在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；熟悉数据结构及算法知识。",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
     ],
     "assessmentTitle": "自我评价",
-    "assessment": "基础扎实，对技术的理解较深入，不会一知半解。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。"
+    "assessment": "基础扎实，有系统的前端专业知识，对技术的理解较深入。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。实事求是，公正严明。"
 }
