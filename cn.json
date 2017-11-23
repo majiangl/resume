@@ -57,7 +57,7 @@
         "period": "2014.6 - 2015.1",
         "company": "IBM",
         "name": "Worklight实施项目",
-        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的认识。"
+        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目，客户包括铁道部，北京国航，上海可乐，青岛海尔等。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的认识。"
     }, {
         "period": "2012.10 - 2014.5",
         "company": "IBM",
