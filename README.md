@@ -1,2 +1,1 @@
-# resume
-My personal resume built with HTML
+https://majiangl.github.io/resume/
