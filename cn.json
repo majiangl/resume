@@ -57,7 +57,7 @@
         "period": "2014.6 - 2015.1",
         "company": "IBM",
         "name": "Worklight实施项目",
-        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目，客户包括铁道部，北京国航，上海可乐，青岛海尔等。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的认识。"
+        "description": "多个基于IBM Worklight的移动端Hybrid web app的实施项目，客户包括铁道部，北京国航，上海可乐，青岛海尔等。IBM Worklight提供了native的壳，Direct update的能力以及调用后台服务的接口等功能，app的所有功能通过Web技术进行实现。Mobile框架使用过JQuery Mobile以及Sencha Touch，历经多个项目，对移动应用的开发现状和常见问题有一定的理解。"
     }, {
         "period": "2012.10 - 2014.5",
         "company": "IBM",
@@ -67,12 +67,14 @@
     "skillTitle": "主要技能",
     "skills": [
         "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等传统的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts和Echarts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验。",
-        "有移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用；对移动端Web开发有一定的认识和经验。",
-        "对新老MVVM框架都有不错的认识，从Backbone，Ember，Knockout，到AngularJS，Vue，React。对MVVM框架理解深刻，熟悉各个框架的核心机制。",
-        "对前端工程化有一定的经验，对grunt，gulp，webpack都有一段时间的实践，目前主要使用webpack。",
-        "熟悉后台技术。在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；熟悉数据结构及算法知识。",
+        "熟悉RWD响应式设计；有早期移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用。",
+        "熟悉新老MVVM框架，从Backbone，Ember，Knockout，到AngularJS，Vue，React，理解各个框架的核心机制和性能优化策略。目前主要使用es6/babel/react技术栈进行开发；Typescript/Angular5学习中。",
+        "有一定的前端工程化实践，熟悉grunt，gulp，webpack等打包工具，目前主要使用webpack。",
+        "掌握面向对象设计原则，熟悉常见设计模式，并以此指导系统的抽象和设计。"
+        "熟悉后台技术与概念，在校期间主要学习并从事Java开发，对Java，JSP/Servlet等基础技术有很好的理解；熟悉数据结构及算法知识；熟悉Http及网络相关知识。",
+        "紧跟行业和前端领域的前沿技术和发展趋势",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
     ],
     "assessmentTitle": "自我评价",
-    "assessment": "基础扎实，有系统的前端专业知识，对技术的理解较深入。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。实事求是，公正严明。"
+    "assessment": "6年前端开发经验，经历了Web技术飞速发展的全过程。基础全面扎实，有系统的专业知识，对技术的理解较深入。注重细节，喜欢追根究底，有较强的学习能力和从现象出发分析与解决问题的能力。性格属于完美主义，有良好的审美和独创性。实事求是，公正严明。"
 }
