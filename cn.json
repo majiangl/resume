@@ -66,11 +66,12 @@
     }],
     "skillTitle": "主要技能",
     "skills": [
-        "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等传统的JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts和Echarts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验。",
+        "深入理解HTML5，CSS3，Javascript；熟悉Jquery，Underscore，RequireJS等传统JS库；熟悉Dojo，并对类似的控件库如ExtJS和EasyUI有开发经验；熟悉用Highcharts和Echarts进行数据可视化；对单页面应用SPA和JS模块化有深入的理解；对JS plugin的封装有丰富的经验。",
         "熟悉RWD响应式设计；有早期移动端Hybrid App开发经验，对Jquery Mobile和Sencha Touch等移动JS框架有一段时间的使用。",
         "熟悉新老MVVM框架，从Backbone，Ember，Knockout，到AngularJS，Vue，React，理解各个框架的核心机制和性能优化策略。目前主要使用es6/babel/react技术栈进行开发；Typescript/Angular5学习中。",
         "有一定的前端工程化实践，熟悉grunt，gulp，webpack等打包工具，目前主要使用webpack。",
         "对Java，JSP/Servlet等后台技术和概念有很好的理解；熟悉数据结构及算法知识；熟悉Http及网络相关知识；熟悉软件工程相关理论。",
+        "了解Web安全相关内容，理解主要web攻击手段如XSS和CSRF，熟悉XSS防御策略。",
         "掌握面向对象设计原则，熟悉常见设计模式，并以此指导系统的抽象和设计。",
         "关注行业和前端领域的前沿技术和发展趋势，如AR/VR，Block Chain，IOT，以及前端领域的PWA，Web Component，WebAssembly等。",
         "英语:CET-6，能进行一般的口语交流，可以无障碍的阅读软件方面的英文文献。"
