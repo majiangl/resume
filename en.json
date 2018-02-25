@@ -1,17 +1,17 @@
 {
     "name": "Ma Jianglong",
-    "address": "宁波市鄞州区宜园路宜家花园9幢10单元2008",
+    "address": "Ningbo, China",
     "mobile": "(+86)186-5848-3609",
     "email": "06rjgcmjl@gmail.com",
     "educationTitle": "EDUCATION BACKGROUND",
     "educations": [{
         "period": "2010.9 - 2012.7",
-        "school": "浙江大学",
+        "school": "Zhejiang University",
         "degree": "Master",
         "major": "Software Engineering"
     }, {
         "period": "2006.9 - 2010.7",
-        "school": "浙江大学",
+        "school": "Zhejiang University",
         "degree": "Bachelar",
         "major": "Software Engineering"
     }],
@@ -19,18 +19,18 @@
     "careers": [{
         "period": "2016.9 - Now",
         "company": "NetEase",
-        "title": "Senior Front-End Developer",
-        "duty": "Develop web appliction in qiyu project under NetEase Hangzhou Research Institute."
+        "title": "Senior Web Developer",
+        "duty": "Mainly do web development in Qiyu project which is one of the B2B projects in NetEase Hangzhou Research Institute. Besides, I help team do trouble-shooting, improve system design and code quality etc. I am one of the two architects that help build front-end framework using React for the new project named Prophet. I also worked as a technique interviewer in NetEase, making a contribution to campany's talent acquisition."
     }, {
         "period": "2015.1 - 2016.8",
         "company": "Sumscope",
-        "title": "Front-End Teamleader",
-        "duty": "Conducting Front-End skills training, learning and promoting edge technologies, building Front-End frameworks and conventions, developing mobile web applications, and doing Front-End engineering etc."
+        "title": "Senior Web Developer",
+        "duty": "I played as a front-end leader in the small team, help enhance their business ability by equipping team with the mordern web technology. Main achievements includes conducting front-end skills training, learning and promoting edge frameworks, building own UI libs and conventions, developing RWD web applications, practising process automation etc."
     }, {
         "period": "2012.7 - 2015.1",
         "company": "IBM",
         "title": "Package Solution Consultant",
-        "duty": "I almost worked as a Front-End consultant. Mainly doing js development based on Dojo and mobile hybrid web apps based on IBM Worklight."
+        "duty": "Though my title was an IBM Websphere consultant, I was almost a front-end consultant. During my service time, I mainly do js development based on Dojo and mobile hybrid web apps based on IBM Worklight."
     }],
     "projectTitle": "PROJECTS",
     "projects": [{
