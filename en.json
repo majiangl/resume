@@ -25,12 +25,12 @@
         "period": "2015.1 - 2016.8",
         "company": "Sumscope",
         "title": "Senior Web Developer",
-        "duty": "I played as a front-end leader in the small team, help enhance their business ability by equipping team with the mordern web technology. Main achievements includes conducting front-end skills training, learning and promoting edge frameworks, building own UI libs and conventions, developing RWD web applications, practising process automation etc."
+        "duty": "I played as a front-end leader in the small team, help enhance their business ability by equipping team with the mordern web technology. Main achievements includes conducting front-end skills training, learning and promoting edge frameworks, building own UI libs and conventions, developing responsive web applications, practising process automation etc."
     }, {
         "period": "2012.7 - 2015.1",
         "company": "IBM",
         "title": "Package Solution Consultant",
-        "duty": "Though my title was an IBM Websphere consultant, I was almost a front-end consultant. During my service time, I mainly do js development based on Dojo and mobile hybrid web apps based on IBM Worklight."
+        "duty": "Though my title was an IBM Websphere consultant, I was almost a front-end consultant. During my service time, I mainly do js development based on Dojo and hybrid web apps based on IBM Worklight."
     }],
     "projectTitle": "PROJECTS",
     "projects": [{
