@@ -47,17 +47,17 @@
         "period": "2016.5 - 2016.8",
         "company": "Sumscope",
         "name": "Unify Web Project",
-        "description": "This project is aim to unify web ui which is initiated and completed all by myself. The final artifact is similar to Bootstrap, including a css theme and a few js plugins. I used LESS preprocessor and Gulp to build."
+        "description": "This project is aim to unify web ui which is initiated and completed all by myself. The output is similar to Bootstrap, including a css theme and a few js plugins. I used LESS preprocessor and Gulp to build."
     }, {
         "period": "2015.1 - 2016.5",
         "company": "Sumscope",
         "name": "QB Projects",
-        "description": "QB is a financial product of sumscope which is originally developed by C++. And latter modules are all developed as web application contained by CEF(Chromium Embedded Framework). QB likes stock software, but more than it. You can use it to view financial news, view analytics charts, manipulate financial data or even view realtime trends etc. The implementation is a bit complicated. There are many ui widgets like tree, charts, grid. Some modules even used SPA. We use Backbone and AngularJS as web framework and use websocket for realtime data pushing."
+        "description": "QB is a financial product of sumscope which is originally developed by C++. And latter modules are all developed as web application contained by CEF(Chromium Embedded Framework). QB likes stock software, but more than it. You can use it to view financial news, view analytics charts, manipulate financial data or even view realtime trends etc. We used many ui widgets like tree, charts, grid. Some modules used SPA. We use Backbone and AngularJS as our framework and use websocket for realtime data pushing."
     }, {
         "period": "2014.6 - 2015.1",
         "company": "IBM",
         "name": "Worklight Consulting Projects",
-        "description": "I have participated in several consulting projects based on IBM Worklight. IBM Worklight is a product to build mobile applications, especially hybrid web apps. IBM Worklight offers hybrid web app native shell, direct update, adapter to link to backend service and other essential features. So hybrid web app is almost web application, we use web techniques to develop mobile app. We use JQuery Mobile or Sench Touch as mobile web framework. After these projects, I am experienced in mobile web development."
+        "description": "I have participated in several consulting projects based on IBM Worklight. IBM Worklight is a product to build mobile applications, especially hybrid web apps. IBM Worklight offers native shell, direct update, adapter to link to backend service and other essential features. So we can build hybrid apps using web technology. We have used mobile web frameworks like JQuery Mobile and Sench Touch. In additon to regular functional development, I often help team do some trouble-shooting."
     }, {
         "period": "2012.10 - 2014.5",
         "company": "IBM",
