@@ -34,15 +34,20 @@
     }],
     "projectTitle": "PROJECTS",
     "projects": [{
-        "period": "2016.9 - Now",
+        "period": "2017.9 - Now",
         "company": "NetEase",
-        "name": "Qiyu customer service system",
-        "description": "Qiyu is a customer service system，which is to provide solution to the customer service area, I have accomplished several independent modules. Technically, We use NetEase standard NEJ and RequireJS as our framework，MVVM is heavily used."
+        "name": "Prophet Project",
+        "description": "Prophet aims to be a marketing cloud whose purpose is to help customer achieve accurate marketing. Currently, the main feature of Prophet is insight which will first identify a segment of people and then produce a visualized report. I have taken part in the build of front-end framework. We abandoned NetEase internal technology stack, but use React/React-Redux/React-Router to develop and webpack to build. I am mainly responsible for the visualization feature in the project. Currently, Prophet offers segment profile report and correlation analysis."
+    },{
+        "period": "2016.9 - 2017.9",
+        "company": "NetEase",
+        "name": "Qiyu Project",
+        "description": "Qiyu is an intelligent customer service system，which provides solution to the customer service industry. Qiyu offers features like call center, online chat, session management, worksheet system, knowledge base, robot etc. I have accomplished several independent modules, such as staff performance module, session monitoring module, worksheet template module, worksheet trigger module, worksheet filter module, authority module. We use NetEase internal NEI, NEJ and RegularJS as our development system which is data-driven, front-end and back-end separated."
     },{
         "period": "2016.5 - 2016.8",
         "company": "Sumscope",
         "name": "Unify Web Project",
-        "description": "This project is aim to unify web ui which is sponsored and all done by myself. The final artifact is similar to Bootstrap, including a css theme and a few js plugins. I used LESS preprocessor and Gulp to build."
+        "description": "This project is aim to unify web ui which is initiated and completed all by myself. The final artifact is similar to Bootstrap, including a css theme and a few js plugins. I used LESS preprocessor and Gulp to build."
     }, {
         "period": "2015.1 - 2016.5",
         "company": "Sumscope",
@@ -65,6 +70,6 @@
         "Know backend techniques. Have a good understanding of Java, JSP/Servelet. Familiar with data structure and algorithms.",
         "English: CET-6. Be able to conduct general oral communication. Have no trouble to read technical books in english."
     ],
-    "assessmentTitle": "ASSESSMENT",
-    "assessment": "I have a solid foundation of IT knowledge, have a deep understanding of web technologies, and am familiar with underlying principles. I also have strong learning and trouble-shooting capabilities. I am a perfectionist, always looking for the best solution. Finally, I have a good sense of style and a lot of creativity."
+    "assessmentTitle": "SELF EVALUATION",
+    "assessment": "I have been working as a web developer for about 6 years, having strong expertise and deep understanding of web technology. I'm good at learning, troubleshooting and performance tunning. I am a perfectionist, thinking highly of both process and results. My character is honest, impartial and responsible."
 }
