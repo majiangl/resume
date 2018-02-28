@@ -67,13 +67,13 @@
     "skillTitle": "SKILLS",
     "skills": [
         "Proficient in Javascript, CSS, HTML; Familiar with common libraries like JQuery, RequireJS, Underscore, Lodash; Especially, experienced in DOJO, and have knowledge of other similar libraries such as ExtJS and EasyUI; Familiar with data visualization using Highcharts/Echarts/D3; Have deep understanding of SPA and modularization; Experienced in component/plugin encapsulation.",
-        "Know well of Responsive Web Design and Mobile First Principle; Have done several hybrid web app based on IBM Worklight; Have quite understanding of mobile web development",
-        "Familiar with a range of MVVM frameworks, from Backbone, Ember, Knockout to React, Angular, Vue；Have a good understanding of MVVM frameworks' core mechanism and performance tunning strategy;",
+        "Know well of Responsive Web Design and Mobile First Principle; Have done several hybrid web app based on IBM Worklight; Have quite understanding of mobile web development.",
+        "Familiar with a range of MVVM frameworks, from Backbone, Ember, Knockout to React, Angular, Vue；Have a good understanding of MVVM frameworks' core mechanism and performance tunning strategy.",
         "Have used gulp, webpack etc; Currently using React with webpack.",
         "Know about common means of web attack, XSS and CSRF; Know XSS defence techniques.",
         "Have essential understanding of backend languages and concepts like Java, JSP/Servlet; Have knowledge of Data Structure and Algorithm; Be familiar with HTTP and network; Be familiar with software engineering.",
         "Deep understanding of OOD principles; Be familiar with common design patterns.",
-        "English: CET-6. Be able to conduct general oral communication. Have no trouble to read technical books in english."
+        "English: CET-6. Be able to conduct simple oral communication. Have no trouble reading technical books written in english."
     ],
     "assessmentTitle": "SELF EVALUATION",
     "assessment": "I have been working as a web developer for about 6 years, having strong expertise and deep understanding of web technology. I'm good at learning, troubleshooting and performance tunning. I am a perfectionist, thinking highly of both process and results. My character is honest, impartial and responsible."
