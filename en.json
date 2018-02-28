@@ -66,8 +66,13 @@
     }],
     "skillTitle": "SKILLS",
     "skills": [
-        "Understand HTML5，CSS3，Javascript deeply; Skilled in popular tools such as Jquery，Underscore，RequireJS; Familiar with UI frameworks like Dojo, ExtJs, EasyUI; Experienced in data visualization using Highcharts; Have lots of trials about SPA(Single Page Applciation) and modularization; Know well how to make a jquery plugin; Master Backbone and AngularJS, also learned other MVVM frameworks like Knockout, Vue, React; Engaged in mobile hybrid web app development, have quite time using jquery mobile and sench touch; Have used NodeJS, Gulp to build system.",
-        "Know backend techniques. Have a good understanding of Java, JSP/Servelet. Familiar with data structure and algorithms.",
+        "Proficient in Javascript, CSS, HTML; Familiar with common libraries like JQuery, RequireJS, Underscore, Lodash; Especially, experienced in DOJO, and have knowledge of other similar libraries such as ExtJS and EasyUI; Familiar with data visualization using Highcharts/Echarts/D3; Have deep understanding of SPA and modularization; Experienced in component/plugin encapsulation.",
+        "Know well of Responsive Web Design and Mobile First Principle; Have done several hybrid web app based on IBM Worklight; Have quite understanding of mobile web development",
+        "Familiar with a range of MVVM frameworks, from Backbone, Ember, Knockout to React, Angular, Vue；Have a good understanding of MVVM frameworks' core mechanism and performance tunning strategy;",
+        "Have used gulp, webpack etc; Currently using React with webpack.",
+        "Know about common means of web attack, XSS and CSRF; Know XSS defence techniques.",
+        "Have essential understanding of backend languages and concepts like Java, JSP/Servlet; Have knowledge of Data Structure and Algorithm; Be familiar with HTTP and network; Be familiar with software engineering.",
+        "Deep understanding of OOD principles; Be familiar with common design patterns.",
         "English: CET-6. Be able to conduct general oral communication. Have no trouble to read technical books in english."
     ],
     "assessmentTitle": "SELF EVALUATION",
